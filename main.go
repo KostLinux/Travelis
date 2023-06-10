@@ -13,7 +13,7 @@ func main() {
 	if err := godotenv.Load(); err != nil {
 		log.Fatal(fmt.Errorf("error loading .env file: %v", err))
 	}
-
+	// DB Module, used under modules folder
 	db := db.InitDB()
 	defer db.Close()
 }
