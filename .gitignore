@@ -1,3 +1,4 @@
 .vscode/
 .env
 psql-data/
+vendor/
