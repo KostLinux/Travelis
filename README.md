@@ -8,7 +8,6 @@ The application automatically calculates the offers, which can be sorted through
 
 - [Revolut account](https://www.revolut.com)
 - [Google account](https://accounts.google.com/)
-- [Kiwi account](https://tequila.kiwi.com/login?utm_source=Partners&utm_medium=page&utm_campaign=headercta)
 - [Git](https://git-scm.com/downloads)
 - [Code Editor](https://code.visualstudio.com)
 - [GoLang](https://go.dev)
@@ -17,14 +16,8 @@ The application automatically calculates the offers, which can be sorted through
 
 ## API
 
-### Google
-
-- [API Explorer](https://developers.google.com/apis-explorer)
-- [Google Travel API](https://developers.google.com/hotels/hotel-prices/api-reference/rest)
-- [Google Public Transport](https://developers.google.com/maps/documentation/directions/overview)
-
 ### Others
-- Air flight API: [Tequila](https://tequila.kiwi.com/portal/getting-started)
+- Air flight API: [SkyScanner](https://developers.skyscanner.net)
 - Restaurants API: [Yelp](https://docs.developer.yelp.com/docs/getting-started)
 - Hotels Booking API: [Booking](https://developers.booking.com/landing/)
 - Revolut Booking API with cashback (availability to be confirmed)
