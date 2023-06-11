@@ -14,9 +14,10 @@ The application automatically calculates the offers, which can be sorted through
 - [Docker](https://docs.docker.com/get-docker/)
 - [KeepassXC](https://keepassxc.org)
 
-## API
+# API
 
-### Others
+API's used for web application:
+
 - Air flight API: [SkyScanner](https://developers.skyscanner.net)
 - Restaurants API: [Yelp](https://docs.developer.yelp.com/docs/getting-started)
 - Hotels Booking API: [Booking](https://developers.booking.com/landing/)
