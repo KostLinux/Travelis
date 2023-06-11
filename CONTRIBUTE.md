@@ -16,4 +16,3 @@ Everything needed for the frontend is located under the `frontend` folder.
 You can also use the provided `docker-compose` file for local testing. More information about local environment setup can be found [here](/doc/local-env.md/).
 
 ## Backend
-

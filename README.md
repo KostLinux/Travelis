@@ -77,6 +77,11 @@ Application will have 2 versions:
 These versions provide users with various options based on their preferences and requirements, ensuring a customized experience that suits their individual needs.
 
 Please note that all prices and features mentioned are subject to change and may vary based on the application's specific offerings and business model.
+
+# Contributing
+
+You can find the detailed contributing guidelines by navigating to the [`CONTRIBUTE.md`](/CONTRIBUTE.md/) file in the repository.
+
 # Trello
 
 You can look for tasks in [Trello](https://trello.com/b/rfrdh8iP/travelis-kanban)
