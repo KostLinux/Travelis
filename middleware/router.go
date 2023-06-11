@@ -10,7 +10,7 @@ func Router() *mux.Router {
 	// Search locations from Booking.com
 	router.HandleFunc("/v1/search-locations", GetSearchLocations).Methods("GET")
 
-	// SkyScanner Culture Marketes
+	// SkyScanner Culture Markets
 	router.HandleFunc("/v1/get-culture-markets", GetCultureMarkets).Methods("GET")
 	return router
 }

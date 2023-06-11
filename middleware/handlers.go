@@ -84,7 +84,7 @@ func GetCultureMarkets(w http.ResponseWriter, r *http.Request) {
 
 	res, err := http.DefaultClient.Do(req)
 	if err != nil {
-		log.Printf("unable to get hotel locations: %v", err)
+		log.Printf("unable to get markets locations: %v", err)
 		StatusInternalServerError(w)
 		return
 	}
