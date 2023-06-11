@@ -2,3 +2,5 @@
 .env
 psql-data/
 vendor/
+# Ignore Modules folder. Used for GO Code development & testing.
+modules/
