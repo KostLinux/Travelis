@@ -18,8 +18,12 @@ func main() {
 		log.Fatal(fmt.Errorf("error loading .env file: %v", err))
 	}
 
+	// Initialize Database connection
 	db := repository.InitDB()
 	defer db.Close()
+
+	// Connect to Redis
+	repository.RedisConnection()
 
 	router := middleware.Router()
 
